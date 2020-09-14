@@ -1,0 +1,13 @@
+C:\Users\kelly\Documents\atividadespc1\atividadeasciiart\bin\Debug\netcoreapp3.1\atividadeasciiart.exe
+C:\Users\kelly\Documents\atividadespc1\atividadeasciiart\bin\Debug\netcoreapp3.1\atividadeasciiart.deps.json
+C:\Users\kelly\Documents\atividadespc1\atividadeasciiart\bin\Debug\netcoreapp3.1\atividadeasciiart.runtimeconfig.json
+C:\Users\kelly\Documents\atividadespc1\atividadeasciiart\bin\Debug\netcoreapp3.1\atividadeasciiart.runtimeconfig.dev.json
+C:\Users\kelly\Documents\atividadespc1\atividadeasciiart\bin\Debug\netcoreapp3.1\atividadeasciiart.dll
+C:\Users\kelly\Documents\atividadespc1\atividadeasciiart\bin\Debug\netcoreapp3.1\atividadeasciiart.pdb
+C:\Users\kelly\Documents\atividadespc1\atividadeasciiart\obj\Debug\netcoreapp3.1\atividadeasciiart.csprojAssemblyReference.cache
+C:\Users\kelly\Documents\atividadespc1\atividadeasciiart\obj\Debug\netcoreapp3.1\atividadeasciiart.AssemblyInfoInputs.cache
+C:\Users\kelly\Documents\atividadespc1\atividadeasciiart\obj\Debug\netcoreapp3.1\atividadeasciiart.AssemblyInfo.cs
+C:\Users\kelly\Documents\atividadespc1\atividadeasciiart\obj\Debug\netcoreapp3.1\atividadeasciiart.csproj.CoreCompileInputs.cache
+C:\Users\kelly\Documents\atividadespc1\atividadeasciiart\obj\Debug\netcoreapp3.1\atividadeasciiart.dll
+C:\Users\kelly\Documents\atividadespc1\atividadeasciiart\obj\Debug\netcoreapp3.1\atividadeasciiart.pdb
+C:\Users\kelly\Documents\atividadespc1\atividadeasciiart\obj\Debug\netcoreapp3.1\atividadeasciiart.genruntimeconfig.cache
